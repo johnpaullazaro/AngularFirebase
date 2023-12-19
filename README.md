@@ -2,4 +2,4 @@
 
 ## Deploy
 Ng Build
-Firebase deploy --project <ProjectID> --only hosting:kasal
+firebase deploy --project 580953560872 --only  hosting:kasal
